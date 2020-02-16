@@ -1,4 +1,4 @@
-public class Tool{
+public class Tool extends ToolBelt{
 
   public String tool(String tool){
     if ( tool.equalsIgnoreCase("hammer")) {
@@ -13,3 +13,4 @@ public class Tool{
   }
 
 }
+//tirel
