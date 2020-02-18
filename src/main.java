@@ -30,9 +30,5 @@ public class main{
 
   }
 }
-/*<target name="run" depends="compile">
-  <mkdir dir="build"/>
-  <java classname="main">
-    <classpath path="build"/>
-  </java>
-</target>*/
+/* to compile: /Users/brendanallcroft/apache-ant-1.10.7/bin/ant compile*/
+/* to run: java -cp build/classes main*/
